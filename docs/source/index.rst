@@ -14,6 +14,7 @@ Some intro to agent
 
    install
    license
+   new
 
 
 Indices and tables
